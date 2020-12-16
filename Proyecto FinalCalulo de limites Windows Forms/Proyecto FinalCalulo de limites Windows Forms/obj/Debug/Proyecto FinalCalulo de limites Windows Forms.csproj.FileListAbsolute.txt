@@ -1,0 +1,10 @@
+C:\Users\Usuario\source\repos\Proyecto FinalCalulo de limites Windows Forms\Proyecto FinalCalulo de limites Windows Forms\bin\Debug\Proyecto FinalCalulo de limites Windows Forms.exe.config
+C:\Users\Usuario\source\repos\Proyecto FinalCalulo de limites Windows Forms\Proyecto FinalCalulo de limites Windows Forms\bin\Debug\Proyecto FinalCalulo de limites Windows Forms.exe
+C:\Users\Usuario\source\repos\Proyecto FinalCalulo de limites Windows Forms\Proyecto FinalCalulo de limites Windows Forms\bin\Debug\Proyecto FinalCalulo de limites Windows Forms.pdb
+C:\Users\Usuario\source\repos\Proyecto FinalCalulo de limites Windows Forms\Proyecto FinalCalulo de limites Windows Forms\obj\Debug\Proyecto FinalCalulo de limites Windows Forms.csprojAssemblyReference.cache
+C:\Users\Usuario\source\repos\Proyecto FinalCalulo de limites Windows Forms\Proyecto FinalCalulo de limites Windows Forms\obj\Debug\Proyecto_FinalCalulo_de_limites_Windows_Forms.Form1.resources
+C:\Users\Usuario\source\repos\Proyecto FinalCalulo de limites Windows Forms\Proyecto FinalCalulo de limites Windows Forms\obj\Debug\Proyecto_FinalCalulo_de_limites_Windows_Forms.Properties.Resources.resources
+C:\Users\Usuario\source\repos\Proyecto FinalCalulo de limites Windows Forms\Proyecto FinalCalulo de limites Windows Forms\obj\Debug\Proyecto FinalCalulo de limites Windows Forms.csproj.GenerateResource.cache
+C:\Users\Usuario\source\repos\Proyecto FinalCalulo de limites Windows Forms\Proyecto FinalCalulo de limites Windows Forms\obj\Debug\Proyecto FinalCalulo de limites Windows Forms.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\Proyecto FinalCalulo de limites Windows Forms\Proyecto FinalCalulo de limites Windows Forms\obj\Debug\Proyecto FinalCalulo de limites Windows Forms.exe
+C:\Users\Usuario\source\repos\Proyecto FinalCalulo de limites Windows Forms\Proyecto FinalCalulo de limites Windows Forms\obj\Debug\Proyecto FinalCalulo de limites Windows Forms.pdb
